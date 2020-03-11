@@ -1,5 +1,5 @@
 // Generated for: spectre
-// Generated on: Mar 10 23:28:04 2020
+// Generated on: Mar 10 23:49:55 2020
 // Design library name: ece115c_project
 // Design cell name: Absolute_Value_Detector
 // Design view name: schematic
@@ -201,54 +201,54 @@ I29 (net13 net18 Vdd 0) INVX1
 I30 (net044 net34 Vdd 0) INVX1
 I28 (net3 net22 Vdd 0) INVX1
 I31 (net32 net040 Vdd 0) INVX1
-I60 (A4 net0188 VDD! 0) INVX2
+I60 (net049 net0188 VDD! 0) INVX2
 I136 (net0124 net0184 VDD! VSS!) INVX2
-I134 (B4 net0189 VDD! 0) INVX2
-I132 (A3 net0190 VDD! 0) INVX2
-I129 (B3 net0195 VDD! 0) INVX2
-I126 (A2 net0196 VDD! 0) INVX2
-I122 (B2 net0197 VDD! 0) INVX2
+I134 (net053 net0189 VDD! 0) INVX2
+I132 (net048 net0190 VDD! 0) INVX2
+I129 (net052 net0195 VDD! 0) INVX2
+I126 (net047 net0196 VDD! 0) INVX2
+I122 (net051 net0197 VDD! 0) INVX2
 I119 (net0191 net0187 VDD! 0) INVX2
 I116 (net0194 net0178 VDD! 0) INVX2
-I115 (A1 net0198 VDD! 0) INVX2
+I115 (net046 net0198 VDD! 0) INVX2
 I111 (net0192 net0186 VDD! 0) INVX2
-I108 (B1 net0199 VDD! 0) INVX2
+I108 (net050 net0199 VDD! 0) INVX2
 I103 (net0193 net0177 VDD! 0) INVX2
-I99 (A0 net0202 VDD! 0) INVX2
+I99 (net0167 net0202 VDD! 0) INVX2
 I104 (net0201 net0176 VDD! 0) INVX2
 I105 (net0200 net0175 VDD! 0) INVX2
 I124 (net0127 net0126 net0122 net0182 VDD! 0) NAND3X2
 I112 (net0182 net0181 net0185 net0192 VDD! 0) NAND3X2
 I101 (net0125 net0174 net0170 net0200 VDD! 0) NAND3X2
-I95 (A5 net0103 B0 Vdd 0) XOR2X1
+I95 (A5 net0103 net0101 Vdd 0) XOR2X1
 I90 (A5 A1 net099 Vdd 0) XOR2X1
-I87 (net0203 net099 B1 Vdd 0) XOR2X1
+I87 (net0203 net099 net050 Vdd 0) XOR2X1
 I80 (A5 A2 net0102 Vdd 0) XOR2X1
-I79 (net0147 net0102 B2 Vdd 0) XOR2X1
+I79 (net0147 net0102 net051 Vdd 0) XOR2X1
 I73 (A5 A3 net098 Vdd 0) XOR2X1
-I71 (net0204 net098 B3 Vdd 0) XOR2X1
+I71 (net0204 net098 net052 Vdd 0) XOR2X1
 I64 (A5 A4 net0205 Vdd 0) XOR2X1
-I61 (A5 net5 A0 Vdd 0) XOR2X1
-I21 (net040 net044 A3 Vdd 0) XOR2X1
-I20 (net12 net4 A2 Vdd 0) XOR2X1
-I19 (net18 net3 A1 Vdd 0) XOR2X1
+I61 (A5 net5 net0167 Vdd 0) XOR2X1
+I21 (net040 net044 net048 Vdd 0) XOR2X1
+I20 (net12 net4 net047 Vdd 0) XOR2X1
+I19 (net18 net3 net046 Vdd 0) XOR2X1
 I23 (A5 A1 net3 Vdd 0) XOR2X1
 I24 (A5 A2 net4 Vdd 0) XOR2X1
 I25 (A5 A3 net044 Vdd 0) XOR2X1
 I26 (A5 A4 net041 Vdd 0) XOR2X1
 I96 (A5 A0 net0103 Vdd 0) XOR2X2
-I65 (net0151 net0205 B4 Vdd 0) XOR2X2
-I22 (net035 net041 A4 Vdd 0) XOR2X2
+I65 (net0151 net0205 net053 Vdd 0) XOR2X2
+I22 (net035 net041 net049 Vdd 0) XOR2X2
 I27 (A5 A0 net5 Vdd 0) XOR2X2
-I137 (net0188 B4 net0124 VDD! 0) NOR2X4
-I133 (net0189 A4 net0166 VDD! 0) NOR2X4
-I131 (net0190 B3 net0123 VDD! 0) NOR2X4
-I127 (net0195 A3 net0165 VDD! 0) NOR2X4
-I125 (net0196 B2 net0122 VDD! 0) NOR2X4
-I121 (net0197 A2 net0164 VDD! 0) NOR2X4
-I114 (net0198 B1 net0163 VDD! 0) NOR2X4
-I102 (net0199 A1 net0121 VDD! 0) NOR2X4
-I98 (net0202 B0 net0170 VDD! 0) NOR2X4
+I137 (net0188 net053 net0124 VDD! 0) NOR2X4
+I133 (net0189 net049 net0166 VDD! 0) NOR2X4
+I131 (net0190 net052 net0123 VDD! 0) NOR2X4
+I127 (net0195 net048 net0165 VDD! 0) NOR2X4
+I125 (net0196 net051 net0122 VDD! 0) NOR2X4
+I121 (net0197 net047 net0164 VDD! 0) NOR2X4
+I114 (net0198 net050 net0163 VDD! 0) NOR2X4
+I102 (net0199 net046 net0121 VDD! 0) NOR2X4
+I98 (net0202 net0101 net0170 VDD! 0) NOR2X4
 V0 (VDD! 0) vsource dc=1 type=dc
 simulatorOptions options reltol=1e-3 vabstol=1e-6 iabstol=1e-12 temp=27 \
     tnom=27 scalem=1.0 scale=1.0 gmin=1e-12 rforce=1 maxnotes=5 maxwarns=5 \
