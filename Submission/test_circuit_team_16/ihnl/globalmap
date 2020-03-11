@@ -1,0 +1,20 @@
+CADENCE IHNL11140
+$model
+gsclib090/XOR2X2/schematic XOR2X2
+ece115c_project/Absolute_Value_Detector/schematic Absolute_Value_Detector
+gsclib090/NAND3X2/schematic NAND3X2
+gsclib090/NAND2X4/schematic NAND2X4
+gsclib090/XOR2X1/schematic XOR2X1
+gsclib090/NOR2X2/schematic NOR2X2
+gsclib090/INVX1/schematic INVX1
+gsclib090/NOR2X4/schematic NOR2X4
+gsclib090/NAND2X2/schematic NAND2X2
+gsclib090/INVX2/schematic INVX2
+$endmodel
+$net
+gnd! 0
+VSS! VSS!
+VDD! VDD!
+$endnet
+$param
+$endparam

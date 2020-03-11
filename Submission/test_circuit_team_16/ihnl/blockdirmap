@@ -1,0 +1,12 @@
+CADENCE IHNL111410
+
+gsclib090 NOR2X2 schematic cds0
+gsclib090 NAND2X4 schematic cds1
+gsclib090 NAND2X2 schematic cds2
+gsclib090 INVX1 schematic cds3
+gsclib090 INVX2 schematic cds4
+gsclib090 NAND3X2 schematic cds5
+gsclib090 XOR2X1 schematic cds6
+gsclib090 XOR2X2 schematic cds7
+gsclib090 NOR2X4 schematic cds8
+ece115c_project Absolute_Value_Detector schematic cds9

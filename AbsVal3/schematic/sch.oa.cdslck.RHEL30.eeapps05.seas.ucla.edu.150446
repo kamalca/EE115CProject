@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      classger
+HostName                       eeapps05.seas.ucla.edu
+ProcessIdentifier              150446
+ProcessCreationTime_UTC        1583906505
+ProcessCreationTime_Readable   Tue Mar 10 23:01:45 2020 PDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /w/home.02/class/classger/ECE115C/EE115CProject/AbsVal3/schematic/sch.oa.cdslck
+TimeEditLocked                 Tue Mar 10 23:02:06 2020 PDT
