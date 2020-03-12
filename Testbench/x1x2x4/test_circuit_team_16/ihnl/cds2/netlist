@@ -1,0 +1,10 @@
+    mp1 (Y B inh_VDD inh_VDD) gpdk090_pmos1v w=(2.6u) l=100n as=728f \
+        ad=728f ps=3.16u pd=3.16u m=(1)*(1) simM=(1)*(1)
+    mp0 (Y A inh_VDD inh_VDD) gpdk090_pmos1v w=(2.6u) l=100n as=728f \
+        ad=728f ps=3.16u pd=3.16u m=(1)*(1) simM=(1)*(1)
+    mn1 (Y B n0 inh_VSS) gpdk090_nmos1v w=(1.72u) l=100n as=481.6f \
+        ad=481.6f ps=2.28u pd=2.28u m=(1)*(1) simM=(1)*(1)
+    mn0 (n0 A inh_VSS inh_VSS) gpdk090_nmos1v w=(1.72u) l=100n as=481.6f \
+        ad=481.6f ps=2.28u pd=2.28u m=(1)*(1) simM=(1)*(1)
+ends NAND2X4
+// End of subcircuit definition.

@@ -1,0 +1,7 @@
+// Generated for: spectre
+// Generated on: Mar 10 23:49:55 2020
+// Design library name: ece115c_project
+// Design cell name: Absolute_Value_Detector
+// Design view name: schematic
+simulator lang=spectre
+global 0 VSS! VDD!
