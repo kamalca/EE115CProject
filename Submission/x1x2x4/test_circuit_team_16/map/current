@@ -1,0 +1,32 @@
+( ( nil
+  version "2.1"
+  mapType "incremental"
+  blockName "Abs_Value_Detector"
+  repList "spectre cmos_sch cmos.sch schematic veriloga"
+  stopList "spectre"
+  hierDelim "."
+  netlistDir "/w/home.02/class/classger/simulation/Abs_Value_Detector/spectre/schematic/netlist"
+ )
+( model
+( "gsclib090/NOR2X4/schematic" "NOR2X4" )
+( "gsclib090/XOR2X1/schematic" "XOR2X1" )
+( "gsclib090/XOR2X2/schematic" "XOR2X2" )
+( "gsclib090/INVX2/schematic" "INVX2" )
+( "gsclib090/INVX1/schematic" "INVX1" )
+( "gsclib090/NAND2X4/schematic" "NAND2X4" )
+( "gsclib090/NAND3X2/schematic" "NAND3X2" )
+( "gsclib090/NOR2X2/schematic" "NOR2X2" )
+( "tb_project/Abs_Value_Detector/schematic" "Abs_Value_Detector" )
+( "gsclib090/NAND2X2/schematic" "NAND2X2" )
+ )
+( "NAND2X2" "ihnl/cds3/map" )
+( "NAND3X2" "ihnl/cds8/map" )
+( "Abs_Value_Detector" "ihnl/cds9/map" )
+( "NAND2X4" "ihnl/cds2/map" )
+( "NOR2X2" "ihnl/cds1/map" )
+( "INVX1" "ihnl/cds4/map" )
+( "XOR2X2" "ihnl/cds7/map" )
+( "XOR2X1" "ihnl/cds6/map" )
+( "INVX2" "ihnl/cds5/map" )
+( "NOR2X4" "ihnl/cds0/map" )
+ )

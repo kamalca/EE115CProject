@@ -1,0 +1,5 @@
+
+// Library name: gsclib090
+// Cell name: NOR2X4
+// View name: schematic
+subckt NOR2X4 A B Y inh_VDD inh_VSS

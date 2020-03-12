@@ -1,0 +1,7 @@
+// Generated for: spectre
+// Generated on: Mar 11 16:22:51 2020
+// Design library name: tb_project
+// Design cell name: Abs_Value_Detector
+// Design view name: schematic
+simulator lang=spectre
+global 0
